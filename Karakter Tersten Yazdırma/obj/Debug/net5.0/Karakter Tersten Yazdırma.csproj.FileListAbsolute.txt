@@ -1,0 +1,16 @@
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\bin\Debug\net5.0\Karakter Tersten Yazdırma.exe
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\bin\Debug\net5.0\Karakter Tersten Yazdırma.deps.json
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\bin\Debug\net5.0\Karakter Tersten Yazdırma.runtimeconfig.json
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\bin\Debug\net5.0\Karakter Tersten Yazdırma.runtimeconfig.dev.json
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\bin\Debug\net5.0\Karakter Tersten Yazdırma.dll
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\bin\Debug\net5.0\Karakter Tersten Yazdırma.pdb
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\obj\Debug\net5.0\Karakter Tersten Yazdırma.csproj.AssemblyReference.cache
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\obj\Debug\net5.0\Karakter Tersten Yazdırma.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\obj\Debug\net5.0\Karakter Tersten Yazdırma.AssemblyInfoInputs.cache
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\obj\Debug\net5.0\Karakter Tersten Yazdırma.AssemblyInfo.cs
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\obj\Debug\net5.0\Karakter Tersten Yazdırma.csproj.CoreCompileInputs.cache
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\obj\Debug\net5.0\Karakter Tersten Yazdırma.dll
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\obj\Debug\net5.0\refint\Karakter Tersten Yazdırma.dll
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\obj\Debug\net5.0\Karakter Tersten Yazdırma.pdb
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\obj\Debug\net5.0\Karakter Tersten Yazdırma.genruntimeconfig.cache
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\obj\Debug\net5.0\ref\Karakter Tersten Yazdırma.dll
